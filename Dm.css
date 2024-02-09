@@ -1,0 +1,49 @@
+.h1{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.p1{
+    margin-left: 40%;
+    margin-right: 30%;
+}
+.i1{
+    height: 600px;
+    margin-left: 30%;
+    
+}
+.i2{
+    height: 400px;
+    margin-left: 30%;
+}
+.d1{
+    height: 2px;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color:  black;
+}
+.d2{
+    height: 1px;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: black;
+}
+.h2{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.b1{
+    margin-left: 36%;
+    margin-right: 30%;
+}
+.i3{
+    height: 300px;
+    width: 500px;
+}
+.p2{
+    margin-left: 42%;
+    margin-right: 30%;
+}
+.h3{
+    margin-left: 25%;
+    margin-right: 25%;
+}
